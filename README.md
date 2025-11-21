@@ -30,9 +30,4 @@ This project is developed to demonstrate web development concepts including UI d
 
 ---
 
-If you'd like, I can also:
-✔ Generate project badges
-✔ Create a full professional README.md with screenshots
-✔ Help you organize your repository structure
 
-Would you like me to add a logo or banner for the repository as well? 😄
